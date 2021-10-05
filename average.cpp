@@ -24,7 +24,7 @@ int main()
         res="fail";
     }else if(12<= m && m <17){
         res="normal";
-    }else if(17<= m){
+    }else if(17<= m && m <=20){
         res="great";}else
         {res="out of range";}
 
