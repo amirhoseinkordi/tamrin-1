@@ -39,6 +39,8 @@ int main()
         cout <<"cot " <<num1 <<" = " << 1/tan(numr1);}
         if(func=="tan"){
         cout <<"tan " <<num1 <<" = " << tan(numr1);}
+    }else {
+        cout << "unknown function";
     }
 
     cout << "\nExit? ( y / n )";
